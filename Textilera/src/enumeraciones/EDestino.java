@@ -1,0 +1,7 @@
+package enumeraciones;
+
+public enum EDestino {
+	
+	PLANTAMEZCLILLA,PLANTACORDONES,PLANTAQUIRURGICO,PLANTADEPORTES
+
+}

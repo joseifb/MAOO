@@ -1,0 +1,6 @@
+package enumeraciones;
+
+public enum EEstilo {
+	IMPRESIONISMO,BARROCO,SURREALISMO,SIMBOLISMO,ROMANTICISMO;
+
+}
